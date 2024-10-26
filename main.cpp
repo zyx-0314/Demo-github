@@ -7,7 +7,8 @@ int main(int argc, char *argv[])
 {
     cout 
          << "Hello world\n"
-         << "Hi!";
+         << "Hi!"
+    cin >> a;
     
     system("PAUSE");
     return EXIT_SUCCESS;
